@@ -1,1 +1,2 @@
 My name is Praiselin
+i am learning git and github
