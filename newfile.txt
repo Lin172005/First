@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 and i am editing this again
+=======
+My name is Praiselin
+i am learning git and github
+>>>>>>> 9c55fd4193a4dbae0463e623c3a504710b008249
